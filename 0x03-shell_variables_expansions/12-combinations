@@ -1,6 +1,2 @@
 #!/bin/bash
-for i in {a..z};do
- if [[ $i != "o" ]];  then 
-     echo $"o$i" 
- fi ;
-done
+echo -e "\n"o{a..n};echo -e o{p..z}"\n"
