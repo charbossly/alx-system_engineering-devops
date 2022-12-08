@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -c 4 "games" /etc/passwd
+grep -c  "bin" /etc/passwd
